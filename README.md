@@ -11,7 +11,3 @@ Go to:
 #### 2. **Run the script as Administrator**
 - Right-click your `.bat` file
 - Click **Run as administrator**
-
----
-
-Let me know if you want an **invisible version** that runs silently in the background with no window.
